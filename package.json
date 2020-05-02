@@ -2,7 +2,7 @@
   "name": "hello-friend-ng",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Djordje Atlialp <djordje@atlialp.com>",
+  "author": "Kevin Chen <kevin.chen@konghq.com>",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
